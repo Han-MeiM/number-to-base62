@@ -1,0 +1,5 @@
+number-to-base62
+
+This Javascript algorightm encodes/decodes numbers as base62.
+It is used in text processing utilities to represent words or
+phrases for statistical purposes.
